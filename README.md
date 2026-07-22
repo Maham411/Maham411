@@ -9,7 +9,7 @@ BSCS Student | AI/ML Enthusiast | Exploring RAG, Generative AI & Computer Vision
 # 🚀 Featured Projects:
 * **[Rishta Run](https://github.com/Minahiltariiqq/Rishta-Run)** - A custom game co-developed in Unity/Unreal Engine, featuring specialized gameplay mechanics, logic routing, and collaborative version control.
 * **[RydeDB](https://github.com/Maham411/RydeDB)** - A comprehensive database architecture and management system modeled after PakWheels, featuring full backend functionality and custom user workflows.
-* **[FloodSense](https://github.com/Maham411/FloodSense)** - An AI-powered flood early warning system co-developed during a 60-hour data hackathon utilizing machine learning models.
+* **[FloodSense](https://github.com/sameer-javed-khan/FloodSense)** - An AI-powered flood early warning system co-developed during a 60-hour data hackathon utilizing machine learning models.
 * **[Synapse](https://github.com/Maham411/Synapse)** - A desktop file management software application designed with a secure, offline-first data architecture.
 
 # 💻 Tech Stack:
