@@ -7,6 +7,7 @@ BSCS Student | AI/ML Enthusiast | Exploring RAG, Generative AI & Computer Vision
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/14_mahi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmahii.72) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maham-i-423a1b376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bmaham86@gmail.com) 
 
 # 🚀 Featured Projects:
+* **[Rishta Run](https://github.com/Minahiltariiqq/Rishta-Run)** - A custom game co-developed in Unity/Unreal Engine, featuring specialized gameplay mechanics, logic routing, and collaborative version control.
 * **[RydeDB](https://github.com/Maham411/RydeDB)** - A comprehensive database architecture and management system modeled after PakWheels, featuring full backend functionality and custom user workflows.
 * **[FloodSense](https://github.com/Maham411/FloodSense)** - An AI-powered flood early warning system co-developed during a 60-hour data hackathon utilizing machine learning models.
 * **[Synapse](https://github.com/Maham411/Synapse)** - A desktop file management software application designed with a secure, offline-first data architecture.
